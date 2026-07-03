@@ -3,3 +3,6 @@ This project is part of the course SC663402 Data Warehouse and Big Data Analytic
 
 ## Introduce myself
 My name is Kittiphat. You can call me Navy.
+
+---
+## Basic git command
